@@ -9,6 +9,7 @@
         <module name="springboot_02_Configeration" />
         <module name="springboot_05_mybatis" />
         <module name="sprintboot_04_junit" />
+        <module name="springboot_07_druid" />
         <module name="springboot_06_mybatis_plus" />
         <module name="springboot_04_junit" />
       </profile>
@@ -20,6 +21,7 @@
       <module name="springboot_04_junit" target="17" />
       <module name="springboot_05_mybatis" target="17" />
       <module name="springboot_06_mybatis_plus" target="17" />
+      <module name="springboot_07_druid" target="17" />
       <module name="sprintboot_04_junit" target="17" />
     </bytecodeTargetLevel>
   </component>
@@ -31,6 +33,7 @@
       <module name="springboot_04_junit" options="-parameters" />
       <module name="springboot_05_mybatis" options="-parameters" />
       <module name="springboot_06_mybatis_plus" options="-parameters" />
+      <module name="springboot_07_druid" options="-parameters" />
       <module name="sprintboot_04_junit" options="-parameters" />
     </option>
   </component>
