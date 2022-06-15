@@ -9,7 +9,6 @@
         <module name="springboot_02_Configeration" />
         <module name="springboot_05_mybatis" />
         <module name="sprintboot_04_junit" />
-        <module name="springboot_07_druid" />
         <module name="springboot_06_mybatis_plus" />
         <module name="springboot_04_junit" />
       </profile>
